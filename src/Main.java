@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Hello world!");
 
-        // Two sum example
+        // Two sum example,
         /*TwoSum twoSum = new TwoSum();
         //var res = twoSum.twoSumBruteForce(new int[]{2,7,11,15}, 13);
         //var res = twoSum.twoSumBruteForce(new int[]{-2,-7,-1,-5, -6,-9}, -13);
